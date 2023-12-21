@@ -10,7 +10,6 @@ import java.util.Optional;
 @Component
 public class PersonaJPARepositoryAdapter implements PersonaOut {
 
-
     private final PersonaJPARepository personaJPARepository;
 
     public PersonaJPARepositoryAdapter(PersonaJPARepository personaJPARepository) {

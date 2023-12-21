@@ -19,6 +19,4 @@ public class ApplicationConfig {
     public PersonaOut personaOut(PersonaJPARepositoryAdapter personaJPARepositoryAdapter){
         return personaJPARepositoryAdapter;
     }
-
-
 }
